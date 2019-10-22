@@ -6,7 +6,7 @@ Steps:
   Clone repo
     $ git clone https://github.com/Ara1009/yelp-fusion-challenge
 
-  Go to the directory
+  Navigate to the cloned directory
 
   Open yelper.js and add API key
 
