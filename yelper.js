@@ -1,7 +1,7 @@
 'use strict';
 
 const yelp = require('yelp-fusion');
-const client = yelp.client('uI2bvYscy3SBUAvAroR6rweaPGHUgCi9x8wI2Q6yIpZn0ABEW1gquLPnQNQOPJPIJ5FAfG_l4Dj5e3npuH_8tA9hf8IxxyUSs3T11yk8jRH7wsLnnYDpNO8Y4x6qXXYx');
+const client = yelp.client('ADDKEYHERE');
 
 
 client.search({
